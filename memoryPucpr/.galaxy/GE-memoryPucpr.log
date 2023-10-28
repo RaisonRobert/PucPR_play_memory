@@ -1,8 +1,8 @@
-[2023-10-28 12:57:53] [L] galaxy property is null or empty 
-[2023-10-28 12:57:53] [L] Non-GB Project : memoryPucpr 
-[2023-10-28 12:57:53] [L] allprojects : project : app 
-[2023-10-28 12:57:53] [L] Non-GB Project : app 
-[2023-10-28 12:57:53] [D] gradle projects loaded 
-[2023-10-28 12:57:53] [L] default maven repo is set to bart by default (non-GB) 
-[2023-10-28 12:57:53] [L] Maven repo base URL : null 
-[2023-10-28 12:57:53] [D] gradle projects evaluated 
+[2023-10-28 14:09:41] [L] galaxy property is null or empty 
+[2023-10-28 14:09:41] [L] Non-GB Project : memoryPucpr 
+[2023-10-28 14:09:41] [L] allprojects : project : app 
+[2023-10-28 14:09:41] [L] Non-GB Project : app 
+[2023-10-28 14:09:41] [D] gradle projects loaded 
+[2023-10-28 14:09:41] [L] default maven repo is set to bart by default (non-GB) 
+[2023-10-28 14:09:41] [L] Maven repo base URL : null 
+[2023-10-28 14:09:42] [D] gradle projects evaluated 
